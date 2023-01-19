@@ -1,11 +1,14 @@
 <h1 align="center"> Hi 👋 I'm Moti !! </h1>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=moti9" /></p>
 
+<!---
 <h2 align="center">My GitHub Statics:</h3>
+
+--->
 
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=moti9&show_icons=true&theme=radical" alt="moti9 GitHub Statics" /></p> --->
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=moti9&theme=radical" alt="moti9 Streak" /></p>
+<!--- <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=moti9&theme=radical" alt="moti9 Streak" /></p> --->
 
 <!-- <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moti9&show_icons=true&theme=radical" alt="moti9 Top Languages"</p>
 --->
