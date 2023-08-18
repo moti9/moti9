@@ -2,8 +2,11 @@
 
 <h3> Hi 👋 I'm Moti !! </h3>
 
-- 🌱 I’m currently learning Django
-- <p align="left">📫 How to reach me: 
+I'm a passionate developer currently diving deep into the world of Django. I love coding and exploring new technologies to build exciting projects.
+
+- 💼 Software Developer
+- 🌱 Currently learning Django
+- <p align="left">📫 Reach me on my social media profiles:
     <a href="https://www.linkedin.com/in/moti9/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="moti9" width="30"/></a>
     <a href="https://twitter.com/moti_kumar_" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="moti_kumar_" width="30"/></a>
     <a href="https://www.instagram.com/_motikumar/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="_motikumar" width="30"/></a>
@@ -37,24 +40,18 @@
 ---
 
 ###  &#x1f4c8; GitHub Stats
-<p align="left">
-<a href="https://github.com/moti9/moti9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moti9&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" width="20%" height="200"/>
-</a>
-<a href="https://github.com/moti9/moti9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moti9&line_height=27&show_icons=true&count_private=true&theme=dark" alt="Moti's GitHub Stats" width="30%" height="200"/>
-</a>
-<a href="https://github.com/moti9/moti9">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moti9&line_height=27&show_icons=true&count_private=true&theme=dark" alt="moti9" width="35%" height="200" />
-</a>
+<p align="center">
+  <a href="https://github.com/moti9/moti9">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moti9&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" width="30%" height="200"/>
+  </a>
+  <a href="https://github.com/moti9/moti9">
+    <img src="https://github-readme-stats.vercel.app/api?username=moti9&line_height=27&show_icons=true&count_private=true&theme=dark" alt="Moti's GitHub Stats" width="40%" height="200"/>
+  </a>
+  <a href="https://github.com/moti9/moti9">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moti9&line_height=27&show_icons=true&count_private=true&theme=dark" alt="moti9" width="45%" height="200"/>
+  </a>
 </p>
 
-<!-- ### `Connect with me:`
-<p align="left">
-    <a href="https://www.linkedin.com/in/moti9/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="moti9" width="40"/></a>
-    <a href="https://twitter.com/moti_kumar_" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="moti_kumar_" width="40"/></a>
-    <a href="https://www.instagram.com/_motikumar/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="_motikumar" width="40"/></a>
-</p> -->
 
 ---
 
@@ -69,7 +66,31 @@
 
 ---
 
-<h3 align="center">Thankyou for visiting my profile </h3>
+<h3 align="center">Thanks for visiting my profile! Let's code something amazing together! 😄</h3>
+
+
+<!--
+## GitHub Stats
+<p align="left">
+<a href="https://github.com/moti9/moti9">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moti9&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" width="20%" height="200"/>
+</a>
+<a href="https://github.com/moti9/moti9">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moti9&line_height=27&show_icons=true&count_private=true&theme=dark" alt="Moti's GitHub Stats" width="30%" height="200"/>
+</a>
+<a href="https://github.com/moti9/moti9">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moti9&line_height=27&show_icons=true&count_private=true&theme=dark" alt="moti9" width="35%" height="200" />
+</a>
+</p>
+--->
+
+
+<!-- ### `Connect with me:`
+<p align="left">
+    <a href="https://www.linkedin.com/in/moti9/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="moti9" width="40"/></a>
+    <a href="https://twitter.com/moti_kumar_" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="moti_kumar_" width="40"/></a>
+    <a href="https://www.instagram.com/_motikumar/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="_motikumar" width="40"/></a>
+</p> -->
 
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=moti9&show_icons=true&theme=radical" alt="moti9 GitHub Statics" /></p> --->
 
